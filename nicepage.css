@@ -37141,6 +37141,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-2 {
   font-size: 1.25rem;
+  text-transform: none;
+  font-weight: normal;
 }
 
 .u-header .u-btn-1 {
