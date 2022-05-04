@@ -36819,6 +36819,7 @@ a.u-link.u-text-hover-grey-90:hover {
         --theme-sheet-width-md: 720px;
         --theme-sheet-width-sm: 540px;
         --theme-sheet-width-xs: 340px;
+        --theme-sheet-width-xxl: 1320px;
         
         
         
@@ -37153,6 +37154,7 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: -38px auto 24px 0;
   padding: 5px 0;
 }
+
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     width: auto;
@@ -37192,6 +37194,7 @@ a.u-link.u-text-hover-grey-90:hover {
   white-space: nowrap;
   margin: 44px auto;
 }
+
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
     min-height: 99px;
