@@ -37168,6 +37168,11 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: 26px;
   }
 
+  .u-header .u-nav-2 {
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+
   .u-header .u-btn-1 {
     margin-top: -28px;
     margin-bottom: 26px;
